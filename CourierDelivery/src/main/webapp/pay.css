@@ -1,0 +1,43 @@
+@charset "UTF-8";@charset "UTF-8";
+
+html,body{
+	height: 100%;
+	width: 100%;
+	background-color: black;
+	color: #99fc1a;
+}
+.page{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	position:absolute;
+	justify-content: center;
+	align-items: center;
+}
+h1{
+	display: ruby;
+	font-size: 50px;
+}
+h3{
+	font-size: 30px;
+}
+form{
+	height: 100%;
+	width: 50%;
+	text-align: left;
+}
+.button{
+	border: none;
+	border-radius: 10px;
+	padding: 20px;
+	font-size: 30px;
+	background-color: #99fc1a;
+	color: black;
+}
+.title{
+	text-align: center;
+	font-family: monospace;
+	background-color: #99fc1a;
+	color: black;
+	padding: 20px;
+}

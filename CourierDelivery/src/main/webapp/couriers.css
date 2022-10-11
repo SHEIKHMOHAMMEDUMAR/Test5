@@ -1,0 +1,26 @@
+@charset "UTF-8";
+html,body{
+	height: 100%;
+	width: 100%;
+}
+.title{
+	text-align: center;
+	font-family: monospace;
+	background-color: #99fc1a;
+	color: black;
+	padding: 20px;
+}
+.pageTable{
+	height: fit-content;
+	width: fit-content;
+	margin-top: 20px;
+}
+
+.page{
+	background-color: black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+}
